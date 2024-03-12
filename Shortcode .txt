@@ -1,0 +1,3 @@
+Shortcode 
+
+[adivina_la_mezcla url_base="https://secreto.agenciahashtag.cl/chile/secreto-carmenere-2/" mezcla_real='{"Carmenere":85,"Syrah":8,"PetitVerdot":1,"Cinsault":2,"Cabernet_Sauvignon":3,"Cepa_no_existe":0}' colores='{"Carmenere":"#ff9a5c","Syrah":"#AE74E3","PetitVerdot":"#FF4151","Cinsault":"#0E71B2","Cabernet_Sauvignon":"#549F9B","Cepa_no_existe":"#D0CABC"}' boton="Descúbrelo" imagen-btn="https://secreto.agenciahashtag.cl/wp-content/uploads/2024/02/boton_descrubrelo-1-2.png"] 
